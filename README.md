@@ -7,8 +7,9 @@
 - 🧠 Traits: Curious, workaholic, and imaginative
 - 🛠️ Passions: I love to simulate, code, and test new ideas
 
-[![LinkedIn: Shreyansh-LinkedIn](https://img.shields.io/badge/-LinkedIn%20-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shreyansh-shukla-7a7166249/)](https://www.linkedin.com/in/shreyansh-shukla-7a7166249/)
-[![LeetCode: Shreyansh-LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat-square&logo=leetcode&logoColor=white&link=https://leetcode.com/u/hshreyansh/)](https://leetcode.com/u/hshreyansh/)
+[![LinkedIn: Shreyansh Shukla](https://img.shields.io/badge/-Shreyansh%20Shukla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shreyansh-shukla-7a7166249/)](https://www.linkedin.com/in/shreyansh-shukla-7a7166249/)
+[![LeetCode: hshreyansh](https://img.shields.io/badge/-LeetCode-orange?style=flat-square&logo=leetcode&logoColor=white&link=https://leetcode.com/u/hshreyansh/)](https://leetcode.com/u/hshreyansh/)
+
 
 
 ---
